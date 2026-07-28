@@ -1,0 +1,28 @@
+# Dados sensíveis
+*.pcap
+*.pcapng
+*.zip
+*.tar.gz
+*.dump
+*.cap
+*.key
+*.pem
+*.p12
+*.pfx
+*.ovpn
+*.ovpn
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+nmap/*.gnmap
+nmap/*.xml
